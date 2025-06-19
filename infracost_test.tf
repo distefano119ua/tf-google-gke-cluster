@@ -1,4 +1,4 @@
-provider "google" {
+provider "google_2" {
   region = "us-central1"
   project = "test"
 }
